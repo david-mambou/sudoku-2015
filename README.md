@@ -5,15 +5,21 @@ This program is a Sudoku game written in Java.
 
 # Screenshots
 
-![Menu](/screenshots_diags/Menu.png)
-Format: ![Alt Text](url)
+Main menu
 
+<img src="/screenshots_diags/Menu.png" alt="Menu"
+	title="Main menu" width="400" height="300" />
 
-![Game and Help](/screenshots_diags/Game_help1.png)
-Format: ![Alt Text](url)
+Game with Help
 
-![Solution](/screenshots_diags/Game_solution.png)
-Format: ![Alt Text](url)
+<img src="/screenshots_diags/Game_help1.png" alt="Help"
+	title="Game & Help" width="400" height="300" />
+
+Game solution
+  
+  <img src="/screenshots_diags/Menu.png" alt="Game_solution"
+	title="Game solution" width="400" height="300" />
+
 
 # Structure
 
